@@ -1,0 +1,20 @@
+# 📋 Course Registration Form
+
+This is a **Course Registration Form** for an online learning platform.  
+It is built using **HTML5** and **CSS3** and demonstrates proper use of semantic elements, form validation, and user-friendly design.
+
+---
+
+## 🚀 Features
+- Collects **personal information** (name, email, phone, date of birth, profile picture)
+- Academic details including **education level, field of study, and programming experience**
+- **Course preferences** (mode, categories, and schedule)
+- Additional details such as **experience level, comments, and contact method**
+- **Terms and Conditions** agreement
+- Styled with a clean and modern **CSS layout**
+- Uses HTML5 validation (email, phone, number ranges, file type restrictions, required fields)
+
+---
+
+## 📂 Project Structure
+
